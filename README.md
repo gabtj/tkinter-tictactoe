@@ -1,5 +1,7 @@
 # Tkinter TicTacToe
-Two player TicTacToe with a Tkinter GUI and replay functionality created in Python.
+Two-player TicTacToe with a Tkinter GUI. Created in Python.
+
+**Features**: replay functionality, moves counter, player turn displayed
 
 ## Screenshots
 ### Gameboard
